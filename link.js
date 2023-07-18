@@ -1,1 +1,1 @@
-const offerLink = "YourLink"
+const offerLink = "http://stt.ink/home.html"
