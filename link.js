@@ -1,1 +1,1 @@
-const offerLink = "http://stt.ink/home.html"
+const offerLink = "https://github.com/Rakib123xxx/youtube-.git"
